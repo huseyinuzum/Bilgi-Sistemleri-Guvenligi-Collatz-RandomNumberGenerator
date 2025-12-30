@@ -41,6 +41,27 @@ Sistem 4 ana aşamadan oluşur:
 
 ---
 
+## 📊 Örnek Çıktı
+--- S-BOX DUYARLI & GERİ BESLEMELİ BİT ÜRETECİ (V2) ---
+Başlangıç Tohumu (Seed - Sayı) giriniz: 1041
+Tuzlama Metni (Salt - Opsiyonel): CanBus 
+
+[SİSTEM] S-Box İmzası: 928
+[SİSTEM] Final Shuffle Seed: 2541
+==================================================
+SONUÇ: ŞİFRELİ BİT DİZİSİ (V2)
+==================================================
+
+>> ÇIKTI (Binary): 10010101101000011011011000010111
+>> ÇIKTI (Hex)   : 0x95a1b617
+>> ÇIKTI (Liste) : [1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1]
+
+--------------------------------------------------
+DURUM    : ✅ BAŞARILI VE DENGELİ (0:16, 1:16)
+==================================================
+
+---
+
 ## 📊 Akış Şeması (Flowchart)
 
 Algoritmanın çalışma prensibini gösteren UML şeması:
